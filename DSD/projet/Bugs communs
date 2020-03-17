@@ -11,3 +11,4 @@ Et pour la question 3, jte conseille d'utiliser un SR Latch "fait maison" plutô
 
 Tout ce qui se passe avant le premier reet ne compte pas
 
+Ne pas rajouter d'outputs supplémentaires (ex: une led) sur le template du main ( le circuit avec les 7segments et les btns)
